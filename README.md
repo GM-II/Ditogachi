@@ -1,4 +1,4 @@
-# Potrómetro
+# Ditogachi
 ![](Potrometro.png)
 ## Open-Hardware System for Micrometric Deformation Measurement
 
