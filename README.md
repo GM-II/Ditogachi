@@ -12,7 +12,7 @@ This project combines Arduino and Python code.
 
 ## Repository content
 
-- [`Build_instructions`](./Build_instructions/)
+- [`Build_instruction`](./Build_instruction/)
   Step-by-step instructions for the fabrication and assembly of the device.
   
 - [`Operation_instruction`](./Operation_instruction/)
@@ -39,9 +39,9 @@ This project combines Arduino and Python code.
 
 ## Instructions 
 
-1. Consult the file [`Bill_of_materials.md`](./Bill_of_materials.md).
+1. Consult the file [`Bill_of_materials.md`](./Bill_of_materials.md)).
 2. Follow the construction instructions provided in [`Build_instruction`](./Build_instruction/).
-3. Carefully review [`Operation_instruction`](./Operation_instruction/) before operating the device.
+3. Carefully review [`Operation_instruction`](./Operation_instruction/)) before operating the device.
 4. Upload the firmware (.ino files) to the microcontrollers and run the Python scripts included in [`Software`](./Software/).
 
 ## Quick operation guide
