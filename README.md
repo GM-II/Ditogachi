@@ -12,23 +12,23 @@ This project combines Arduino and Python code.
 
 ## Repository content
 
-- `/building_instructions/`  
+- [`Building_instructions`](./Building_instructions/)
   Step-by-step instructions for the fabrication and assembly of the device.
   
-- `/operation_instructions/`  
+- [`Operation_instructions`](./Operation_instructions/)
   Guidelines for proper use of the device, including calibration and safe operation.
 
-- `/bill_of_materials.md/`  
+- [`Bill_of_materials.md`](./Bill_of_materials.md)  
   Complete list of components, suppliers, and estimated costs.
 
-- `/software/`  
+- [`Software`](./Software/)
   Source code and scripts for data acquisition and analysis. Versions range from early alpha releases to version 2.0 of the code.
 
-- `/design_files/` 
+- [`Design_files`](./Design_files/) 
   Technical standards and references used in the design process (.stl files).
 
-- `/results/`
-  Experimental results obtained for PLA samples: force–elongation plots, (Poisson’s ratio?), (Young’s modulus?).
+- [`Results`](./Results/)
+  Experimental results obtained for the samples: force–elongation plots for each sample material.
 
 ## Requirements
 
@@ -39,10 +39,10 @@ This project combines Arduino and Python code.
 
 ## Instructions 
 
-1. Consult the file `bill_of_materials.md`.
-2. Follow the construction instructions provided in `building_instructions/`.
-3. Carefully review `operation_instructions/` before operating the device.
-4. Upload the firmware (.ino files) to the microcontrollers and run the Python scripts included in `software/`.
+1. Consult the file [`Bill_of_materials.md`](./Bill_of_materials.md).
+2. Follow the construction instructions provided in [`Building_instructions`](./Building_instructions/).
+3. Carefully review [`Operation_instructions`](./Operation_instructions/) before operating the device.
+4. Upload the firmware (.ino files) to the microcontrollers and run the Python scripts included in [`Software`](./Software/).
 
 ## Quick operation guide
 
@@ -67,7 +67,7 @@ This project combines Arduino and Python code.
 ⚠️ **Important:**  
 This section provides a high-level overview only.  
 For calibration, safety precautions, and detailed operation procedures,
-refer to `/operation_instructions/`.
+refer to [`Operation_instructions`](./Operation_instructions/).
 
 ## Project Status
 
