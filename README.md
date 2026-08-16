@@ -30,6 +30,14 @@ This project combines Arduino and Python code.
 - [`Results`](./Results/)
   Experimental results obtained for the samples: force–elongation plots for each sample material.
 
+- [`Complements/`](./Complements/)
+  
+  Supplementary documentation, including load cell characterization results and additional photographs of the system.
+
+- [`Research_Output/`](./Research_Output/)
+  
+  Thesis manuscript and appendices documenting the first reported version of the system, provided as background and historical reference.
+
 ## Requirements
 
 - 3D printer / access to a mechanical fabrication workshop
