@@ -1,8 +1,8 @@
 | Component | Number | Cost per unit - currency | Total cost - currency | Source of materials | Material type |
 |:--|:--|:--|:--|:--|:--|
-| 3.2 mm C-Mount Microscope Camera Adapter | 1 | 11.10 USD | 11.10 USD | https://n9.cl/liqh7j | Microscope Eyepiece Adapter |
+| 23.2 mm C-Mount Microscope Camera Adapter | 1 | 11.10 USD | 11.10 USD | https://n9.cl/liqh7j | Microscope Eyepiece Adapter |
 | 3D support for the micro-scale camera | 1 | 5.87 USD | 5.87 USD | [View STL design](/./Design_files/3D_Models/Support.stl) | 3D Printed in PLA |
-| 3 W Coaxial Point LED Spot Light | 1 | 42.99 USD | 42.99 USD | https://n9.cl/lxyam | Coaxial Light |
+| 3 W Coaxial Point LED Spot Light | 1 | 42.99 USD | 42.99 USD | https://n9.cl/lxyam | Coaxial Light 8 mm |
 | 480 W, 48 V, 10 A Power Supply | 1 | 39.99 USD | 39.99 USD | https://n9.cl/ob4bt | Drok-200570 |
 | Actuator base | 1 | 7.80 USD | 7.80 USD | [View DWG design](/./Design_files/3D_Models/Actuator_base.dwg) | Bronze (machined) |
 | Adjustable Zoom Barlow Monocular | 1 | 91.93 USD | 91.93 USD | https://n9.cl/ynerq | TV150 W075 |
@@ -14,7 +14,7 @@
 | Clamping Plug | 1 | 0.50 USD | 0.50 USD | [View STL design](/./Design_files/3D_Models/Clamping%20plug.stl) | 3D Printed in PLA |
 | Digital Industrial Microscope Camera | 2 | 100.98 USD | 201.96 USD | https://n9.cl/54ddm | Maant XJ-1 2 |
 | Electrolytic Capacitors | 2 | 0.12 USD | 0.24 USD | Electronics Stores | Composite |
-| Fine Adjustable Focusing Bracket Holder | 1 | 98.00 USD | 98.00 USD | https://n9.cl/hs8yf | 76MM |
+| Fine Adjustable Focusing Bracket Holder | 1 | 98.00 USD | 98.00 USD | https://n9.cl/hs8yf | 76mm - 25mm |
 | Half Reflection–Half Transmission Lens Adapter | 1 | 55.55 USD | 55.55 USD | https://n9.cl/ozm6x | RMS20.23 |
 | Hexagonal allen screws M5×15 mm | 6 | 0.15 USD | 0.90 USD | Screws Stores | Steel |
 | Hexagonal button head screws M6×16 mm | 4 | 0.15 USD | 0.60 USD | Screws Stores | Steel |
@@ -31,11 +31,11 @@
 | Load Cell Amplifier Transmitter | 1 | 8.36 USD | 8.36 USD | https://n9.cl/wj5ek | WXD-D70 |
 | Load Cell Signal Transmitter | 2 | 22.09 USD | 44.18 USD | https://n9.cl/h2mejt | Shitailinge |
 | Long WD Infinity Plan Objective Lens 5× | 1 | 42.97 USD | 42.97 USD | https://n9.cl/syld4q | JLLSMCMGGX |
-| Microscope Polarized LED Ring Light | 2 | 23.96 USD | 47.92 USD | https://n9.cl/23sygc | wozniak |
+| Microscope Polarized LED Ring Light | 2 | 23.96 USD | 47.92 USD | https://n9.cl/23sygc | Wozniak ILFixes iL37 |
 | Microscope Reticle Calibrating Slide Ruler | 1 | 9.11 USD | 9.11 USD | https://n9.cl/o5htf2 | Optical Glass (0.01 mm div.) |
 | Mini PC | 1 | 319.00 USD | 319.00 USD | https://n9.cl/rgvvx | BOSGAME B-95, Intel N95 12th Gen |
 | Miniature S-type Load Cell 1 kgf | 1 | 49.60 USD | 49.60 USD | https://n9.cl/4bg0g | DYLY-106 |
-| Miniature S-type Load Cell 5 kgf | 1 | 68.00 USD | 68.00 USD | https://n9.cl/zc0ce | DYLY-106 |
+<!--| Miniature S-type Load Cell 5 kgf | 1 | 68.00 USD | 68.00 USD | https://n9.cl/zc0ce | DYLY-106 | -->
 | Miniature S-type Load Cell 50 kgf | 1 | 65.00 USD | 65.00 USD | https://n9.cl/0rp10 | DYLY-106 |
 | NEMA 23 Closed-Loop Servo-Stepper Motor + Driver | 1 | 99.99 USD | 99.99 USD | https://n9.cl/03rna | Rtelligent 57A3ED + T60 |
 | Phillips flat head screws M4×5 mm | 2 | 0.10 USD | 0.10 USD | Screws Stores | Steel |
@@ -50,4 +50,4 @@
 | Tripod | 1 | 52.30 USD | 52.30 USD | https://n9.cl/31szeq | Weifeng WT-3560 |
 | USB 3.2 to USB-C Cable | 1 | 18.99 USD | 18.99 USD | https://n9.cl/kkwi2 | Aoybevty |
 | USB 3.2 to USB-C Female Adapter | 1 | 9.99 USD | 9.99 USD | https://n9.cl/477rm | ANDTOBO |
-| **Total** | | | **1,767.63 USD** | | |
+| **Total** | | | **1,699.63 USD** | | |
