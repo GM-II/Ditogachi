@@ -10,6 +10,26 @@ The source codes shared below, together with the referenced links and supporting
 
 This project combines Arduino and Python code.
 
+## System Overview
+
+<p align="center">
+  <img src="Complements/System_Photos/Old_Photos/Collagen_Essay2.JPG" width="45%">
+  <img src="Complements/System_Photos/Old_Photos/Collagen_EssayClose.JPG" width="45%">
+</p>
+
+<p align="center">
+  <img src="Complements/System_Photos/Old_Photos/Main_Camera.JPG" width="45%">
+  <img src="Complements/System_Photos/Old_Photos/Camera.JPG" width="45%">
+</p>
+
+<p align="center">
+  <img src="Complements/System_Photos/Old_Photos/TensionModule.JPG" width="45%">
+  <img src="Complements/System_Photos/Old_Photos/Microscope.JPG" width="45%">
+</p>
+
+
+*General view of the system, tensile module, microscopy system, and control electronics.*
+
 ## Repository content
 
 - [`Build_Instruction`](./Build_Instruction/)
