@@ -1,5 +1,9 @@
 # Ditogachi
-![](Potrometro.png)
+
+<p align="center">
+<img src="Complements/System_Photos/Potrometro.png" >
+</p>
+
 ## Open-Hardware System for Micrometric Deformation Measurement
 
 This project presents the design and development of an open-hardware system that includes an extensometer capable of accurately measuring mechanical deformations at the micrometric scale, along with a set of open-source algorithms optimized for image analysis and the use of computer vision for the correct interpretation of the acquired data.
@@ -18,12 +22,12 @@ This project combines Arduino and Python code.
 </p>
 
 <p align="center">
+  <img src="Complements/System_Photos/Old_Photos/TensionModule.JPG" width="45%">
   <img src="Complements/System_Photos/Old_Photos/Main_Camera.JPG" width="45%">
-  <img src="Complements/System_Photos/Old_Photos/Camera.JPG" width="45%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/Old_Photos/TensionModule.JPG" width="45%">
+  <img src="Complements/System_Photos/Old_Photos/Camera.JPG" width="45%">
   <img src="Complements/System_Photos/Old_Photos/Microscope.JPG" width="45%">
 </p>
 
@@ -104,7 +108,7 @@ refer to [`Operation_instruction`](./Operation_instruction/).
 - Open to contributions.
 
 ## Licenses
-<img width="211" height="109" alt="image" src="https://github.com/user-attachments/assets/82dd333d-4ac3-449e-8f60-66f543654aba" />
+<img width="211" height="109" alt="image" src="Licenses/oshw_facts.png" />
 
 ###### Documentation
 <a href="https://github.com/GM-II/Ditogachi">Ditogachi's Documentation</a> © 2026 by <a href="https://github.com/GM-II">GM-II</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a> <img width="20" height="20" margin-left="20" alt="image" style="max-width: 20;max-height:20;margin-left: 20;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" > <img width="20" height="20" margin-left="20" alt="image" style="max-width: 20;max-height:20;margin-left: 20;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" >
