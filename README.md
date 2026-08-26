@@ -17,18 +17,23 @@ This project combines Arduino and Python code.
 ## System Overview
 
 <p align="center">
-  <img src="Complements/System_Photos/Old_Photos/Collagen_Essay2.JPG" width="45%">
-  <img src="Complements/System_Photos/Old_Photos/Collagen_EssayClose.JPG" width="45%">
+  <img src="Complements/System_Photos/General%20view.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/Old_Photos/TensionModule.JPG" width="45%">
-  <img src="Complements/System_Photos/Old_Photos/Main_Camera.JPG" width="45%">
+  <img src="Complements/System_Photos/HardwareModules_fig.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/Old_Photos/Camera.JPG" width="45%">
-  <img src="Complements/System_Photos/Old_Photos/Microscope.JPG" width="45%">
+  <img src="Complements/System_Photos/Microscope_B.jpg" width="80%">
+</p>
+
+<p align="center">
+  <img src="Complements/System_Photos/Microscope_parts_detail_B.jpg" width="80%">
+</p>
+
+<p align="center">
+  <img src="Complements/System_Photos/Tensile%20test%20module.jpg" width="80%">
 </p>
 
 
