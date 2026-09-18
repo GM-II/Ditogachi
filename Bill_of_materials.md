@@ -35,7 +35,6 @@
 | Microscope Reticle Calibrating Slide Ruler | 1 | 9.11 USD | 9.11 USD | https://n9.cl/o5htf2 | Optical Glass (0.01 mm div.) |
 | Mini PC | 1 | 319.00 USD | 319.00 USD | https://n9.cl/rgvvx | BOSGAME B-95, Intel N95 12th Gen |
 | Miniature S-type Load Cell 1 kgf | 1 | 49.60 USD | 49.60 USD | https://n9.cl/4bg0g | DYLY-106 |
-<!--| Miniature S-type Load Cell 5 kgf | 1 | 68.00 USD | 68.00 USD | https://n9.cl/zc0ce | DYLY-106 | -->
 | Miniature S-type Load Cell 50 kgf | 1 | 65.00 USD | 65.00 USD | https://n9.cl/0rp10 | DYLY-106 |
 | NEMA 23 Closed-Loop Servo-Stepper Motor + Driver | 1 | 99.99 USD | 99.99 USD | https://n9.cl/03rna | Rtelligent 57A3ED + T60 |
 | Phillips flat head screws M4×5 mm | 2 | 0.10 USD | 0.10 USD | Screws Stores | Steel |
@@ -51,3 +50,4 @@
 | USB 3.2 to USB-C Cable | 1 | 18.99 USD | 18.99 USD | https://n9.cl/kkwi2 | Aoybevty |
 | USB 3.2 to USB-C Female Adapter | 1 | 9.99 USD | 9.99 USD | https://n9.cl/477rm | ANDTOBO |
 | **Total** | | | **1,699.63 USD** | | |
+<!--| Miniature S-type Load Cell 5 kgf | 1 | 68.00 USD | 68.00 USD | https://n9.cl/zc0ce | DYLY-106 | -->
