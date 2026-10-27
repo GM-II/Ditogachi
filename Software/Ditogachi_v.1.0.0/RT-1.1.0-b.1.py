@@ -1,3 +1,26 @@
+##  RT-1.1.0-b.1.py
+##  This code belong to the Ditogachi's project by the Grupo de Microscopia, Intrumentación e Innovación GM-II
+##  For more info please visit the group GitHub: https://github.com/GM-II
+##
+##  It's the betha version of a experimetal code who allow us just to record the image data in real time 
+##  matching it with the data from hardware, and constanly comunicating with it
+##  using the arduino codes for a centralized and synchronised management of the whole system.
+##
+##  Note: It was tested and work really well, we think it could be a good option when
+##  PC components aren't good enough to achieve the fps goal.
+##  Copyright 2026 Grupo de Microscopía, Instrumentación e Innovación GM-II (S. Rosas, S. Triviño, C. Garzón)
+##
+##   Licensed under the Apache License, Version 2.0 (the "License");
+##   you may not use this file except in compliance with the License.
+##   You may obtain a copy of the License at
+##
+##       http://www.apache.org/licenses/LICENSE-2.0
+##
+##   Unless required by applicable law or agreed to in writing, software
+##   distributed under the License is distributed on an "AS IS" BASIS,
+##   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+##   See the License for the specific language governing permissions and
+##   limitations under the License.
 import cv2
 import numpy as np
 import time
