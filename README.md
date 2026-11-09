@@ -51,26 +51,26 @@ This project combines Arduino and Python code.
   Complete list of components, suppliers, and estimated costs.
 
 - [`Software`](./Software/)
-  Source code and scripts for data acquisition and analysis. Versions range from early alpha releases to version 2.0 of the code.
+  Source code and scripts for data acquisition and analysis. Versions range from the releases candidate to version 1.0.0 of the code.
 
 - [`Design_Files`](./Design_Files/) 
-  Technical standards and references used in the design process (.stl files).
+  Technical standards and references used in the design process (.dwg, .stl, and .iges files).
 
 - [`Results`](./Results/)
-  Experimental results obtained for the samples: force–elongation plots for each sample material.
+  Experimental results obtained for the samples: records and force–elongation plots for each sample material.
 
-- [`Complements/`](./Complements/)
+- [`Complements`](./Complements/)
   
   Supplementary documentation, including load cell characterization results and additional photographs of the system.
 
-- [`Research_Output/`](./Research_Output/)
+- [`Research_Output`](./Research_Output/)
   
   Thesis manuscript and appendices documenting the first reported version of the system, provided as background and historical reference.
 
 ## Requirements
 
 - 3D printer / access to a mechanical fabrication workshop
-- Electronic components listed in the BOM
+- Components listed in the BOM
 - Basic knowledge of instrumentation and electronics
 - Software: Python (with required libraries: cv2, numpy, time, openpyxl, datetime, serial, os) / Arduino
 
