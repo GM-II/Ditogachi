@@ -54,8 +54,8 @@ This project combines Arduino and Python code.
   Source code and scripts for data acquisition and analysis. Versions range from the releases candidate to version 1.0.0 of the code.
 
 - [`Design_Files`](./Design_Files/) 
-  Technical standards and references used in the design process (.dwg, .stl, and .iges files).
-
+  Technical drawings, standards, and reference files used throughout the design process, including .dwg, .stl, and .iges files. Also includes documentation related to hardware development, functionality, and design        improvements.
+  
 - [`Results`](./Results/)
   Experimental results obtained for the samples: records and force–elongation plots for each sample material.
 
@@ -65,11 +65,12 @@ This project combines Arduino and Python code.
 
 - [`Research_Output`](./Research_Output/)
   
-  Thesis manuscript and appendices documenting the first reported version of the system, provided as background and historical reference.
+  Thesis manuscript and appendices documenting the first reported version of the system, provided for background and historical reference. Also includes research contributions presented at conferences and academic         events, as well as materials related to the undergraduate thesis defense.
 
 ## Requirements
 
-- 3D printer / access to a mechanical fabrication workshop
+- 3D printer
+- Access to a mechanical fabrication workshop
 - Components listed in the BOM
 - Basic knowledge of instrumentation and electronics
 - Software: Python (with required libraries: cv2, numpy, time, openpyxl, datetime, serial, os) / Arduino
