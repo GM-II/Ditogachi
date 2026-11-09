@@ -82,7 +82,7 @@ This video presents the complete assembly procedure for the tensile loading hard
 
 ## Electronics and Wiring
 
-The assembly of the electronic instrumentation is documented separately through wiring diagrams and circuit documentation included in this repository.
+The assembly of the electronic instrumentation is documented separately through wiring diagrams and circuit documentation included in this repository [View folder](/./Build_Instruction/Wiring/).
 
 These documents describe:
 
