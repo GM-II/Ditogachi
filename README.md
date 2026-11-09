@@ -21,7 +21,7 @@ This project combines Arduino and Python code.
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/harware_modules.jpg" width="80%">
+  <img src="Complements/System_Photos/hardware_modules.jpg" width="80%">
 </p>
 
 <p align="center">
