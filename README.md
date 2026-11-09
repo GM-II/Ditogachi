@@ -1,7 +1,7 @@
 # Ditogachi
 
 <p align="center">
-<img src="Complements/System_Photos/Potrometro.png" >
+<img src="Complements/System_Photos/ditogachi.png" >
 </p>
 
 ## Open-Hardware System for Micrometric Deformation Measurement
@@ -17,23 +17,23 @@ This project combines Arduino and Python code.
 ## System Overview
 
 <p align="center">
-  <img src="Complements/System_Photos/General%20view.jpg" width="80%">
+  <img src="Complements/System_Photos/general_view.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/HardwareModules_fig.jpg" width="80%">
+  <img src="Complements/System_Photos/harware_modules.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/Microscope_B.jpg" width="80%">
+  <img src="Complements/System_Photos/microscope_b.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/Microscope_parts_detail_B.jpg" width="80%">
+  <img src="Complements/System_Photos/microscope_parts_detail_b.jpg" width="80%">
 </p>
 
 <p align="center">
-  <img src="Complements/System_Photos/Tensile%20test%20module.jpg" width="80%">
+  <img src="Complements/System_Photos/tensile_test_module.jpg" width="80%">
 </p>
 
 
@@ -113,7 +113,14 @@ refer to [`Operation_Instruction`](./Operation_Instruction/).
 - Open to contributions.
 
 ## Licenses
+
 <img width="211" height="109" alt="image" src="Licenses/oshw_facts.png" />
+
+###### Hardware
+[Hardware License](./Licenses/Hardware/)
+
+###### Software
+[Software License](./Licenses/Software/)
 
 ###### Documentation
 <a href="https://github.com/GM-II/Ditogachi">Ditogachi's Documentation</a> © 2026 by <a href="https://github.com/GM-II">GM-II</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a> <img width="20" height="20" margin-left="20" alt="image" style="max-width: 20;max-height:20;margin-left: 20;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" > <img width="20" height="20" margin-left="20" alt="image" style="max-width: 20;max-height:20;margin-left: 20;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" >
