@@ -117,10 +117,10 @@ refer to [`Operation_Instruction`](./Operation_Instruction/).
 <img width="211" height="109" alt="image" src="Licenses/oshw_facts.png" />
 
 ###### Hardware
-[Hardware License](./Licenses/Hardware/)
+[Ditogachi's Hardware](https://github.com/GM-II/Ditogachi) 2026 by [GM-II](https://github.com/GM-II) is licensed under [CERN Open Hardware Licence Version 2 - Weakly Reciprocal](./Licenses/Hardware/)
 
 ###### Software
-[Software License](./Licenses/Software/)
+[Ditogachi's Software](./Software) © 2026 by [GM-II](https://github.com/GM-II) is licensed under [Apache License v2.0](./Licenses/Software/)
 
 ###### Documentation
 <a href="https://github.com/GM-II/Ditogachi">Ditogachi's Documentation</a> © 2026 by <a href="https://github.com/GM-II">GM-II</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a> <img width="20" height="20" margin-left="20" alt="image" style="max-width: 20;max-height:20;margin-left: 20;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" > <img width="20" height="20" margin-left="20" alt="image" style="max-width: 20;max-height:20;margin-left: 20;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" >
